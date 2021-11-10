@@ -386,8 +386,8 @@ div #logobar img{
     position: absolute;
     top: 0px;
     height: 100vh;
-    padding: 0px;
-    left: -280px;
+    padding: 0px 0px 0 10px;
+    left: -290px;
     transition: all 0.5s ease;
 }
 #navbar ul li{
