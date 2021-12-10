@@ -15,6 +15,12 @@ h1,h2,h3,h4,h5{
 body{
     margin: 0px;
 }
+
+header{
+    position: sticky;
+    top: 66px;
+}
+
 /* topbar */
 
 .uni-padding{
@@ -26,7 +32,7 @@ body{
     padding-bottom: 18px;
     overflow: auto;
     position: sticky;
-    top: 0;
+    top: 0px;
 }
 #tollfree{
     float: left;
