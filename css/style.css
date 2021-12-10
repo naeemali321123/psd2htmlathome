@@ -25,6 +25,8 @@ body{
     padding-top: 18px;
     padding-bottom: 18px;
     overflow: auto;
+    position: sticky;
+    top: 0;
 }
 #tollfree{
     float: left;
